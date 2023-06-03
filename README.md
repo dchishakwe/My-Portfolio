@@ -16,4 +16,4 @@ I developed a Data Studio report that leveraged SQL queries in analysing a Big Q
 
 ![ZEAL PROJECT DASHBOARD 2](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report/blob/main/ZEAL%20PROJECT%20DASHBOARD%20PAGE%202.jpg)
 
-![ZEAL PROJECT DASHBOARD 3](https://github.com/dchishakwe/My-Portfolio/blob/main/repository-open-graph-template%20(1).png)
+![](https://github.com/dchishakwe/My-Portfolio/blob/main/repository-open-graph-template%20(1).png)
