@@ -10,7 +10,7 @@ I developed a Data Studio report that leveraged SQL queries in analysing a Big Q
 4. Facebook Campaigns that drove the lowest cost per registration from August 2022 to October 2022.
 5. Showing the campaigns that drove the highest ROI % (Cost VS Net Deposit).
 
-[SQL QUERIES](https://www.example.com)
+[CLICK HERE TO VIEW THE SQL SCRIPTS USED]([https://www.example.com](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report/tree/main/SQL%20Queries))
 
 ![ZEAL PROJECT DASHBOARD](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report/blob/main/ZEAL%20PROJECT%20DASHBOARD%20PAGE%201.jpg)
 
