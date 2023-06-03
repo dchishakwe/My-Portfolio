@@ -1,6 +1,6 @@
 # Donald-Chishakwe's-Portfolio
 
-## Project: [Data Studio/Big Query Social Madia Campaign Analytics Report](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report)
+## Project 1: [Data Studio/Big Query Social Madia Campaign Analytics Report](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report)
 
 I developed a Data Studio report that leveraged SQL queries in analysing a Big Query dataset for a stakeholder. The stakeholder's objective was to monitor the number of registrations and growth percentage associated with Facebook and Google campaigns and make a comparison between their performance in 2021 and 2022. Business areas/questions to be addressed for the media buying team included:
 
