@@ -1,4 +1,4 @@
-# Donald-Chishakwe's-Portfolio
+# Donald-Chishakwe's-Projects
 
 ## Project 1: [Data Studio/Big Query Social Madia Campaign Analytics Report](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report)
 
