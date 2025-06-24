@@ -16,11 +16,11 @@ Other Visualizations:
 📋 Detailed KPI Breakdown    
 💡 KPI Decomposition  
 
-![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/My-Portfolio/blob/main/Images/Enduro%20Bike%20Co%20Overview%20Page.jpg)
+![Enduro-Bike-Co-Analytics](Images/Enduro%20Bike%20Co%20Overview%20Page.jpg)
 
-![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/My-Portfolio/blob/main/Images/Enduro%20Bike%20Co%20Detail%20Page.jpg)
+![Enduro-Bike-Co-Analytics](Images/Enduro%20Bike%20Co%20Detail%20Page.jpg)
 
-![Enduro-Bike-Co-Analytics](https://github.com/dchishakwe/My-Portfolio/blob/main/Images/Enduro%20Bike%20Co%20Decomposition.jpg)
+![Enduro-Bike-Co-Analytics](Images/Enduro%20Bike%20Co%20Decomposition.jpg)
 
 ## Project 2: [Data Studio/Big Query Social Madia Campaign Analytics Report](https://github.com/dchishakwe/Social-Media-Campaign-Analytics-Report)
 
